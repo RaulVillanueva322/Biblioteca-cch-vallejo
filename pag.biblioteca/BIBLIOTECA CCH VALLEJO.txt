@@ -1,0 +1,297 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEADER>
+<meta charset='utf-8'>
+<TITLE>Biblioteca CCH Vallejo</TITLE>
+<TABLE ALIGN="CENTER" WIDTH="90%" STYLE="TEXT-ALIGN:CENTER">
+<tr>
+<td>
+<IMG SRC="IMA/UNAM.png" WIDTH="150" HEIGHT="130">
+</TD>
+<TD>
+<DIV ID="PRINCIPIO"><H1><FONT FACE="ARIAL"><B>Biblioteca CCH Vallejo</B></FONT></H1>
+</td>
+<td>
+<IMG SRC="IMA/CCH.png" WIDTH="190" HEIGHT="120">
+</TD>
+</TR>
+</TABLE>
+</HEADER>
+<BODY>
+<HR WIDTH=100% SIZE=5 COLOR=BLACK>
+<BR>
+<link rel="stylesheet" href="css/style.css">
+<CENTER>
+<TABLE BORDER=0>
+<TBODY>
+<TR>
+<TD>
+<DIV ID="MENU">
+<UL>
+<LI ID="ITEM">
+<A HREF="#Partes externas de la Biblioteca">
+<FONT SIZE="2">Partes externas de la Biblioteca</FONT>
+</A>
+
+<UL ID="DESPLE">
+<LI><A HREF="#Biblioteca en la parte central"><FONT SIZE="2">Parte central</FONT></A></LI>
+<LI><A HREF="#Biblioteca del lado izquierdo"><FONT SIZE="2">Lado izquierdo</FONT></A></LI>
+<LI><A HREF="#Biblioteca del lado derecho"><FONT SIZE="2">Lado derecho</FONT></A></LI>
+<LI><A HREF="#Biblioteca por el lado de canchas"><FONT SIZE="2">Lado de canchas</FONT></A></LI>
+</UL></LI>
+
+<LI ID="ITEM">
+<A HREF="#Servicios de la biblioteca">
+<FONT SIZE="2">Servicios de la biblioteca</FONT>
+</A>
+</LI>
+<LI ID="ITEM">
+<A HREF="#Lo básico del reglamento">
+<FONT SIZE="2">Lo básico del reglamento</FONT>
+</A>
+</LI>
+<LI ID="ITEM">
+<A HREF="#Secciones">
+<FONT SIZE="2">Secciones</FONT>
+</A>
+</LI>
+<LI ID="ITEM">
+<A HREF="#Segundo piso de la biblioteca">
+<FONT SIZE="2">Segundo piso de la biblioteca</FONT>
+</A>
+</LI>
+<LI ID="ITEM">
+<A HREF="#Llevarme libros a mi casa">
+<FONT SIZE="2">Llevarme libros a mi casa</FONT>
+</A>
+</LI>
+<LI ID="ITEM">
+<A HREF="#Devolución de libros">
+<FONT SIZE="2">Devolución de libros</FONT>
+</A>
+</LI>
+</UL>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV>
+</CENTER>
+<BR>
+<HR WIDTH="100%" SIZE="5" COLOR=BLACK>
+<BODY BGCOLOR=WHITE>
+<BR>
+<TABLE ALIGN=CENTER BORDER=0>
+<TD><DD><MARQUEE><FONT FACE="Monaco" SIZE="6"><U>"Hecho por y para estudiantes"</U></TD></FONT> 
+</TABLE>
+<BR>
+<BR>
+<FONT FACE="Arial"> <FONT SIZE=3><DIV ALIGN=JUSTIFY>La Biblioteca se encuentra entre los edificios R y K, al lado del área de canchas, es un edificio grande, la fachada tiene tonos grises y ventanas grandes, además contiene en sus paredes hermosas pinturas. Para entrar a la Biblioteca debes ubicar la parte en donde dice "ENTRADA" y por ahí puedes entrar y para salir debes ubicar la parte que dice "SALIDA" y por ahí salir.</FONT></FONT></DIV>
+<BR>
+<FONT FACE="Arial"> <FONT SIZE=3><DIV ALIGN=JUSTIFY>La Biblioteca es el espacio dedicado al estudio, el aprendizaje y la investigación documental por lo que sus instalaciones, acervos, equipos y aparatos deberán ser empleados para tal fin.</FONT></FONT></DIV>
+<BR>
+<FONT FACE="Arial"> <FONT SIZE=3><DIV ALIGN=JUSTIFY>La Biblioteca del Colegio brindará un servicio de 8:00 a 20:00 horas de lunes a viernes.</FONT></FONT></DIV>
+<BR>
+<BR>
+<DIV ALIGN=JUSTIFY>
+<DIV ID="Partes externas de la Biblioteca">
+<H3><FONT FACE="Arial">Partes externas de la Biblioteca</FONT></H3></DIV>
+<BR>
+<BR>
+<DIV ALIGN=JUSTIFY>
+<DIV ID="Biblioteca en la parte central">
+<H3><FONT FACE="Arial">Biblioteca en la parte central</FONT></H3></DIV>
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/BIBLIOTECASYE.jpeg" WIDTH=500 HEIGHT=280>
+<IMG SRC="IMA/BIBLIOTECA DE LADO.jpeg" WIDTH=500 HEIGHT=280>
+<IMG SRC="IMA/BIBLIOTECA POR ENTRADA.jpeg" WIDTH=500 HEIGHT=280>
+<IMG SRC="IMA/BIBLIOTECABANCAS.jpeg" WIDTH=500 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<DIV ALIGN=JUSTIFY>
+<DIV ID="Biblioteca del lado izquierdo">
+<H3><FONT FACE="Arial">Biblioteca del lado izquierdo</FONT></H3></DIV>
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/BIBLIOTECA IZQUIERDA.jpeg" WIDTH=850 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<DIV ALIGN=JUSTIFY>
+<DIV ID="Biblioteca del lado derecho">
+<H3><FONT FACE="Arial">Biblioteca del lado derecho</FONT></H3></DIV>
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/BIBLIOTECADERECHO.jpeg" WIDTH=600 HEIGHT=280>
+<IMG SRC="IMA/BIBLIOTECADERECHO2.jpeg" WIDTH=600 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<DIV ALIGN=JUSTIFY>
+<DIV ID="Biblioteca por el lado de canchas">
+<H3><FONT FACE="Arial">Biblioteca por el lado de canchas</FONT></H3> 
+</DIV>
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/BIBLIOTECACANCHAS.jpeg" WIDTH=850 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<DIV ALIGN=JUSTIFY><DIV ID="Servicios de la biblioteca"><H3><FONT FACE="Arial">Servicios de la biblioteca</FONT></H3></DIV>
+<FONT FACE="Arial"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Son los siguientes:
+<UL>
+<LI>Préstamo interno: Consiste en consultar el material documental únicamente en las salas (el usuario podrá consultar máximo tres libros a la vez)</LI>
+<LI>Préstamo a domicilio: Consiste en facilitar a los usuarios internos registrados los materiales para que lo utilicen fuera de la biblioteca y se lo puedan llevar temporalmente, en un plazo de una semana a su casa o cualquier otro lugar (Se mencionara más adelante como se podrá realizar el trámite para llevarte libros a tu casa)</LI>
+<LI>Acceso a sala de consulta</LI>
+<LI>Préstamo Interbibliotecario: Consiste en proporcionar a los usuarios institucionales los materiales propiedad de la biblioteca del Colegio y en solicitar documentos a otras bibliotecas para ser utilizados por los usuarios internos del Colegio</LI>
+<LI>Uso de la sala de biblioteca digital</LI>
+<LI>Jardin de la lectura</LI>
+<LI>Hemeroteca, periódicos, revistas para consulta dentro de la biblioteca</LI>
+<LI>Fotocopiado de textos</LI>
+</UL>
+</FONT>
+</FONT>
+</DIV>
+<BR>
+<FONT FACE="Arial"><FONT SIZE=3><DIV ALIGN=JUSTIFY>La biblioteca ofrece sus servicios a toda persona o institución que los soliciten y para tal efecto considera a tres tipos de usuarios:
+<UL>
+<LI>I. Usuarios internos: Alumnos, personal académico, personal administrativo y funcionarios que formen parte de la comunidad del colegio.<BR>Nota:Como estudiante Universitario puedes hacer uso de la biblioteca del plantel, así como de la red de bibliotecas de la UNAM solamente presentando tu credencial.</LI>
+<LI>II. Usuarios externos: Aquellos no incluidos en el punto anterior.</LI>
+<LI>III. Institucionales: Unidades de información de instituciones públicas y privadas que establecen convenios de préstamo interbibliotecario con la biblioteca del Colegio</LI>
+</UL>
+</FONT>
+</FONT>
+</DIV>
+<BR>
+<H3><FONT FACE="ARIAL"><DIV ALIGN=JUSTIFY><DIV ID="Lo básico del reglamento">Lo básico del reglamento</DIV></FONT></H3>
+<DIV ALIGN=JUSTIFY><FONT SIZE=3><FONT FACE="ARIAL">
+<UL>
+<LI>Hacer el menor ruido posible por respeto al trabajo y la lectura de los demás</LI>
+<LI>No introducir ni consumir ningún tipo de bebida, comida, dulces, golosinas y demás</LI>
+<LI>Respetar y obedecer las indicaciones del personal que trabaja en la biblioteca</LI>
+<LI>Mantener un buen estado las instalaciones fisicas, incluyendo estantería y los libros evitando su mutilación o marcas con pluma/lápiz</LI>
+<LI>El personal de vigilancia puede solicitar la apertura de mochilas o bolsas a la salida en caso de que no suene la alarma y se detecte un libro</LI>
+<LI>Si extravías tu credencial, tienes que reportarla con el Coordinador o los Jefes de Biblioteca para que no pidan libros a tu nombre</LI>
+<LI>Tienes derecho a ser atendido con cortesía, respeto y recibir un servicio de calidad</LI>
+</UL>
+</FONT>
+</FONT>
+</DIV>
+<BR>
+<FONT SIZE=3><FONT FACE="ARIAL"><DIV ALIGN=JUSTIFY>Al entrar en el centro caminando un poco y girando hacia la izquierda se encuentra una estanteria de algunos libros que te puedes llevar a tu casa y caminando hasta el fondo se encuentra una mesa con tres computadoras y atrás se encuentran los bibliotecarios con ellos puedes pedir ayuda para encontrar un libro en específico y hacer el trámite para llevarte los libros a tu casa.</FONT></FONT></DIV>
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/LIBROS CENTRO.jpeg" WIDTH=500 HEIGHT=280>
+<IMG SRC="IMA/CENTRO 2.jpeg" WIDTH=500 HEIGHT=280>
+</DIV>
+<BR>
+<H3><FONT FACE="ARIAL"><DIV ID="Secciones"><DIV ALIGN=JUSTIFY>Secciones</FONT></DIV></H3>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>La biblioteca se divide en tres secciones con almacenaje de libros que corresponden a estas cuatro áreas:<BR>Matemáticas, ciencias experimentales, talleres e histórico social.</FONT></FONT></DIV>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY><B>La primera sección</B> la cual también se conoce como la sala de consulta se encuentra entrando hacia la derecha, hay cinco computadoras en donde puedes consultar algunos libros metiendo datos como el título,autor y año y el personal te puede ayudar si los necesitas después se encuentran estanterías de color gris y de color verde también hay un letrero que indica que no debes consumir alimentos y bebidas dentro de la biblioteca, en esta área hay aproximadamente 28 mesas y de esas 28, 25 mesas contienen cuatro sillas y las tres restantes 8 sillas y en total de estanterías son 54 (de las que están numeradas) y de las que no están numeradas son 14, donde se encontrarán Atlas, revistas diccionarios,etc. 
+<BR>De esta sección no puedes pedir préstamo para llevártelos a tu casa, nada más son para consulta o fotocopiar.</FONT></FONT></DIV>
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SECCION 1-GENERAL.jpeg" WIDTH=430 HEIGHT=280>
+<IMG SRC="IMA/SECCION 1-LADO IZQUIERDO.jpeg" WIDTH=430 HEIGHT=280>
+<IMG SRC="IMA/SECCION 1-LADO DERECHO 2.jpeg" WIDTH=430 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY><B>La segunda sección</B> está ubicada entrando casi llegando al escritorio donde el personal te hace préstamo de libros del lado izquierdo en donde se encontrará el Módulo 1 con los temas de Obras Generales, Filosofía, Psicología, Ética,  Religión, C. Aux. De la Historia, Historia Universal, Historia de E.U.,  Historia de América Latina, Historia de México. 
+Las estanterías se encuntran numeradas del 1 al 15 y son de color gris eso corresponde del lado izquierdo.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SECCION 2-OTRA PERSPECTIVA.jpeg" WIDTH=430 HEIGHT=280> 
+<IMG SRC="IMA/SECCION 2-PERSPECTIVA.jpeg" WIDTH=430 HEIGHT=280>
+<IMG SRC="IMA/SECCION 2-OTRA PERSPECTIVA 2.jpeg" WIDTH=430 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>De este mismo lado se localiza del lado izquierdo de la primera estanteria, la Jefatura de Sección en la cual los alumnos no pueden entrar solo el personal de la biblioteca y ahí se hacen los procesos de los libros nuevos.</FONT></FONT></DIV> 
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/JEFATURA 3.jpeg" WIDTH=500 HEIGHT=270>
+<IMG SRC="IMA/JEFATURA.jpeg" WIDTH=500 HEIGHT=270>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Así mismo del lado izquierdo de la Jefatura de Sección se encuentran unas escaleras las cuales llevan al segundo piso de la Biblioteca cualquier persona perteneciente al CCH puede subir y los alumnos pueden ahi hacer trámites, al lado de las escaleras hay un cuarto con dos puertas de color rojo en donde hay varias cosas,  este cuarto se llama sistemas y los alumnos pueden entrar cuando van a hacer un cambio de horario, cambio de materia o a imprimir la hoja de exámenes extraordinarios, etcétera.</FONT></FONT></DIV> 
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/PUERTAS ROJAS.jpeg" WIDTH=600 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Del lado derecho se encuentra una parte en donde al parecer solo pueden entrar trabajadores y ahí se encuentran algunas computadoras.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SECCION 2-PERSONAL 2.jpeg" WIDTH=430 HEIGHT=280> 
+<IMG SRC="IMA/SECCION 2-PERSONAL 3.jpeg" WIDTH=430 HEIGHT=280>
+<IMG SRC="IMA/SECCION 2-PERSONAL 4.jpeg" WIDTH=430 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY><B>La tercera sección</B> se localiza casi llegando al escritorio donde el personal te hace préstamo de libros del lado derecho y entrando del lado derecho que es el Modulo 2 se cuenta con estanterías con temas como Administración, Literatura Redacción, Bellas Artes, Música, Derecho, Educación, Ciencia Política, Finanzas, Geografía Económica y Economía comienza la numeración desde la estantería 16 hasta la 27.</FONT></FONT></DIV> 
+<BR>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SECCION 3 LADO DERECHO 2.jpeg" WIDTH=430 HEIGHT=280> 
+<IMG SRC="IMA/SECCION 3 LADO DERECHO.jpeg" WIDTH=430 HEIGHT=280>
+<IMG SRC="IMA/SECCION 3-LADO DERECHO 3.jpeg" WIDTH=430 HEIGHT=280>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Del lado izquierdo comienza la numeración de la estantería con la 28 y es el Módulo donde hay temas como Computación, Matematicas, Álgebra lineal, Cálculo Diferencial e Integral, Geometría, Trigonometría, Física, Química, Biología y Ciencias de la Salud y finaliza con la estantería 38.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SECCION 3 GENERAL.jpeg" WIDTH=500 HEIGHT=280> 
+<IMG SRC="IMA/SECCION 3-DESDE ATRAS.jpeg" WIDTH=500 HEIGHT=280> 
+</DIV>
+<BR>
+<BR>
+<H3><FONT FACE="Arial"><DIV ID="Segundo piso de la biblioteca">Segundo piso de la biblioteca</FONT></H3></DIV>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>La Biblioteca cuenta con un segundo piso, cualquier persona perteneciente al CCH puede subir y los alumnos pueden ahi hacer trámites.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SEGUNDOPISO.jpeg" WIDTH=500 HEIGHT=320> 
+<IMG SRC="IMA/SEGUNDOPISO1.jpeg" WIDTH=500 HEIGHT=320> 
+</DIV>
+<BR>
+<BR>
+<H3><FONT FACE="ARIAL"><DIV ID="Llevarme libros a mi casa">Llevarme libros a mi casa</FONT></H3>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Como se menciono anteriormente puedes hacer el tramite para llevarte los libros a tu casa sin embargo ¿Cómo se hace este tramite?<BR>Al centro al entrar se encuentra una mesa con tres computadoras y atrás se encuentran los bibliotecarios con alguno de ellos haces el trámite para llevarte los libros a tu casa que consiste en dar los libros que te quieras llevar (máximo tres) y en dar tu credencial de la cual escanearán el código de barras y sellaran el libro en la parte de atrás con la fecha que te dan para la entrega del libro es decir una semana por ejemplo consultas el libro el 15 de febrero de 2023, el sello dirá 22 de febrero de 2023.<BR>
+En la salida hay una rampa en donde deberas depositar los libros que pediste para préstamo ya que al salir hay un detector, que detecta si pasas libros aunque también puede que suene por ejemplo por el celular o un libro que hayas comprado en librería , en caso de sonar te hacen abrir la mochila y te preguntan si tienes un libro ahí si la respuesta es no tienes que volver a entrar y volver a salir ahora sin la mochila si vuelve a sonar probablemente sea una prenda o un reloj o algo así y si ya no suena te dan tu mochila y ya te puedes ir.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SALIDA POR DENTRO.jpeg" WIDTH=500 HEIGHT=320>
+</DIV>
+<BR>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>A lado de la rampa para poner los libros se encuentra el puesto donde podrás sacar copias, ahí el precio depende de la cantidad de copias que quieras sacar.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/COPIAS.jpeg" WIDTH=500 HEIGHT=320>
+<IMG SRC="IMA/COPIAS2.jpeg" WIDTH=500 HEIGHT=320>
+</DIV>
+<BR>
+<BR>
+<H3><FONT FACE="ARIAL"><DIV ID="Devolución de libros">Devolución de libros</FONT></H3>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Para devolverlos lo que tendrás que hacer es ir nuevamente con la persona que te sello los libros y decirle que quieres devolverlos y lo que hará es colocar otro sello que indica que lo has devuelto y te los darán para que los vuelvas a acomodar en la estantería de donde los agarraste.</FONT></FONT></DIV>
+<DIV ALIGN=CENTER>
+<IMG SRC="IMA/SELLOS.jpeg" WIDTH=500 HEIGHT=320>
+</DIV>
+<BR>
+<FONT FACE="ARIAL"><FONT SIZE=3><DIV ALIGN=JUSTIFY>Pero ¿Qué pasa si no devuelvo los libros que me dieron para préstamo en el tiempo establecido?<BR>
+Te haces acreedor a una sanción, y la sanción va ser el tiempo que te tardaste en devolver los libros va a ser tu sanción y no vas a poder sacar material de la biblioteca hasta que te desbloquea el sistema.</FONT></FONT></DIV> 
+<HR WIDTH=100% SIZE=5 COLOR=BLACK>
+<DIV ALIGN=CENTER>
+<TABLE ALIGN="LEFT" WIDTH="90%" STYLE="TEXT-ALIGN:CENTER">
+<TR>
+<TD> 
+<IMG SRC="IMA/AVATAR.png" WIDTH=200 HEIGHT=200>
+</TD>
+<FONT FACE="ARIAL"><FONT SIZE=3>Elaborado por:Ricaño Quiroz Samara Getzemani</FONT></FONT>
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A HREF="#PRINCIPIO">
+<IMG SRC=IMA/Up.png ID="BOTONARRIBA" STYLE="RIGHT: 20PX;">
+</A>
+<script src="navi.js"></script>
+</BODY>
+</HTML>

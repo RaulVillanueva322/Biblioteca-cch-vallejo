@@ -1,0 +1,55 @@
+.bordered { 
+    -moz-border-radius: 20px; 
+    -webkit-border-radius: 20px; 
+    border-radius: 20px; 
+    background-color: khaki;
+    width: max-content;
+}
+
+#MENU ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+#MENU #ITEM a{
+    background-color:#1c3d6c;
+    color: white;
+    padding:12px 20px;
+    display:block;
+    text-decoration: none;
+}
+
+#MENU #ITEM{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#MENU #ITEM a:hover{
+    background-color: #c5911f;
+    color: black;
+}
+
+#BOTONARRIBA{
+    position: fixed;
+    bottom: 20px;
+    right: -100px;
+    width: 80px;
+    height: 80px;
+    transition: all 1s;
+}
+
+.img-1{
+
+ border-radius: 22px;
+}
+
+#MENU #DESPLE{
+       DISPLAY:NONE;
+      
+}
+
+#MENU #ITEM:HOVER #DESPLE{
+       DISPLAY:BLOCK;
+}
